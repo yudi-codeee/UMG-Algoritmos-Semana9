@@ -46,3 +46,7 @@ Si el archivo CSV no puede abrirse, el programa muestra un mensaje de error y te
 
 ## Uso de inteligencia artificial
 Se consultó ChatGPT como apoyo para comprender la estructura del programa, la validación de datos y el manejo de archivos en C++. El código fue revisado y probado para comprender su funcionamiento.
+
+## Video Explicativo
+Puede ver la explicación del código en el siguiente enlace:
+[Haz clic aquí para ver el video en Google Drive](https://drive.google.com/file/d/121EAh2pY5aXKXA4yTsETAoX78eW8T7pR/view?usp=drivesdk)
