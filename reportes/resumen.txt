@@ -1,0 +1,7 @@
+RESUMEN DEL INVENTARIO
+Registros validos: 5
+Registros invalidos: 3
+Valor total del inventario: Q7179
+
+RESULTADO DE LA BUSQUEDA
+El producto no existe.
